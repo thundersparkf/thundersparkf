@@ -6,4 +6,4 @@ I am a Developer and a Student who is passionate about DevOps and the Cloud. Act
 - 📫 How to reach me: Find my portfolio [here](https://agastya-dev.github.io)
 - 😄 Pronouns: He/Him
 
-[![Dev's github stats](https://github-readme-stats.vercel.app/api?username=thundersparkf)](https://github.com/thundersparkf/github-readme-stats)
+[![Dev's github stats](https://github-profile-trophy.vercel.app/?username=thundersparkf)](https://github.com/ryo-ma/github-profile-trophy)
